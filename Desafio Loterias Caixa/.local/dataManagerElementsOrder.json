@@ -1,0 +1,81 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "resultados_a_partir_do_ultimo&Flowchart_1",
+        "sheets&Sequence_33",
+        "valores_sobre_concurso_old&Sequence_34",
+        "valores_sobre_concurso&Sequence_28",
+        "carregou&Sequence_34",
+        "i&Sequence_33",
+        "i&Sequence_22",
+        "row_table_excel&Flowchart_1",
+        "valores_sobre_concursoSplited&Sequence_25",
+        "valores_sobre_concurso&Sequence_25",
+        "carregou&Sequence_24",
+        "numero_concursos&Flowchart_1",
+        "sheet&Flowchart_1",
+        "varAux&Flowchart_1",
+        "concursos&Flowchart_1",
+        "i&Sequence_6",
+        "config_infos&Sequence_13",
+        "loterias_caixa_link&Flowchart_1",
+        "path&Flowchart_1",
+        "path_log&Flowchart_1",
+        "path_resultado&Flowchart_1",
+        "path_temp&Flowchart_1",
+        "processing_folder&Sequence_7",
+        "path_project&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "functions/extração_mega-sena.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "g_column&Sequence_1",
+        "f_column&Sequence_1",
+        "e_column&Sequence_1",
+        "d_column&Sequence_1",
+        "numeros_sorteados&Sequence_2",
+        "data_e_concurso&Sequence_2",
+        "array_dt_e_concurso&Sequence_2",
+        "concurso&Sequence_2",
+        "dt_concurso&Sequence_2",
+        "not_winners&Sequence_2",
+        "ExtractDataTable4&Sequence_2",
+        "ExtractDataTable6&Sequence_2",
+        "localidade_ganhadores_sena&Sequence_2",
+        "localidade_ganhadores_quadra&Sequence_2",
+        "erro&Sequence_3",
+        "ganhadores_sena&Sequence_3",
+        "ganhadores_quadra&Sequence_3",
+        "qnt_ganhadores_6_splited&Sequence_4",
+        "qnt_ganhadores_4_splited&Sequence_4",
+        "ExtractDataTable5&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "row_table_excel",
+        "concursos",
+        "loterias_caixa_link",
+        "path_log",
+        "path_temp",
+        "sheet"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

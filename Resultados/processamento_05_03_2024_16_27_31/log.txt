@@ -1,0 +1,79 @@
+﻿Arquivo de LOG criado
+====================================================================
+Informações do CONFIG extraídas com sucesso
+Finalizadas as configurações iniciais para processamento!
+====================================================================
+Iniciando processamento e extração dos últimos 5 concursos da Mega-Sena
+Iniciando extração dos dados
+Extraindo informações básicas
+Verificando se houve ganhador
+Não houve ganhador no concurso 2695
+Preenchendo dados sobre o concurso 2695 na aba Último Concurso da planilha.
+Preenchendo dados sobre o concurso 2695 na aba Últimos 5 Concursos da planilha.
+Extração finalizada, indo para o concurso anterior
+--------------------------------------------------------------------
+Iniciando extração dos dados
+Extraindo informações básicas
+Verificando se houve ganhador
+Não houve ganhador no concurso 2694
+Preenchendo dados sobre o concurso 2694 na aba Últimos 5 Concursos da planilha.
+Extração finalizada, indo para o concurso anterior
+--------------------------------------------------------------------
+Iniciando extração dos dados
+Extraindo informações básicas
+Verificando se houve ganhador
+Não houve ganhador no concurso 2693
+Preenchendo dados sobre o concurso 2693 na aba Últimos 5 Concursos da planilha.
+Extração finalizada, indo para o concurso anterior
+--------------------------------------------------------------------
+Iniciando extração dos dados
+Extraindo informações básicas
+Verificando se houve ganhador
+Não houve ganhador no concurso 2692
+Preenchendo dados sobre o concurso 2692 na aba Últimos 5 Concursos da planilha.
+Extração finalizada, indo para o concurso anterior
+--------------------------------------------------------------------
+Iniciando extração dos dados
+Extraindo informações básicas
+Verificando se houve ganhador
+Não houve ganhador no concurso 2691
+Preenchendo dados sobre o concurso 2691 na aba Últimos 5 Concursos da planilha.
+Extração finalizada, indo para o concurso anterior
+--------------------------------------------------------------------
+Iniciando extração dos concursos citados como referência, encontrados na planilha CONFIG
+Buscando pelo concurso 2220
+Iniciando extração dos dados
+Extraindo informações básicas
+Verificando se houve ganhador
+Houve ganhador (es)
+Quantidade de ganhadores capturada
+Entrando na página com os dados dos ganhadores
+Extraindo dados dos ganhadores
+Informações extraídas
+Preenchendo dados sobre o concurso 2220 na aba Lista de Concursos Específicos da planilha.
+Extração do concurso 2220 Finalizada
+--------------------------------------------------------------------
+Buscando pelo concurso 2110
+Iniciando extração dos dados
+Extraindo informações básicas
+Verificando se houve ganhador
+Houve ganhador (es)
+Quantidade de ganhadores capturada
+Entrando na página com os dados dos ganhadores
+Extraindo dados dos ganhadores
+Informações extraídas
+Preenchendo dados sobre o concurso 2110 na aba Lista de Concursos Específicos da planilha.
+Extração do concurso 2110 Finalizada
+--------------------------------------------------------------------
+Buscando pelo concurso 2188
+Iniciando extração dos dados
+Extraindo informações básicas
+Verificando se houve ganhador
+Não houve ganhador no concurso 2188
+Preenchendo dados sobre o concurso 2188 na aba Lista de Concursos Específicos da planilha.
+Extração do concurso 2188 Finalizada
+--------------------------------------------------------------------
+Finalizada extração, indo para a FASE FINAL
+====================================================================
+Robô finalizado, volte sempre!
+====================================================================
